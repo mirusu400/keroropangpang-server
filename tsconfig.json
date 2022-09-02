@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"outDir": "dist",
+		"target": "ES6",
+		"moduleResolution": "Node",
+		"declaration": true
+	},
+	"include": ["src/**/*"],
+	"lib": ["ES2021"]
+}
