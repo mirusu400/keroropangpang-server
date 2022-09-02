@@ -1,2 +1,2 @@
-# keroropangpang-server
-Implementation of KeroroPangPang Server via TypeScript
+# 케로로팡팡 프리서버 구현 프로젝트
+**이 구현체를 사용하려면, 케로로팡팡 클라이언트를 일부 수정해야 합니다.**
