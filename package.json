@@ -1,21 +1,21 @@
 {
-  "name": "tcp-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "long": "^5.2.0",
-    "net": "^1.0.2"
-  },
-  "devDependencies": {
-    "@types/node": "^17.0.31",
-    "ts-node": "^10.7.0",
-    "typescript": "^4.6.4"
-  }
+	"name": "keroropangpang-server",
+	"version": "0.1.0",
+	"description": "케로로팡팡 프리서버 구현체",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "nunnu1028",
+	"license": "GPL-v3",
+	"dependencies": {
+		"long": "^5.2.0",
+		"net": "^1.0.2"
+	},
+	"devDependencies": {
+		"@types/node": "^17.0.31",
+		"ts-node": "^10.7.0",
+		"typescript": "^4.6.4"
+	}
 }
